@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:decision="http://www.bonitasoft.org/ns/bpm/process/decision" xmlns:expression="http://www.bonitasoft.org/ns/bpm/expression" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:process="http://www.bonitasoft.org/ns/bpm/process">
   <process:MainProcess xmi:id="_TlVdcB2mEfG7rLUwHeWKLQ" name="RCreditoLanzarConvocatoria" bonitaModelVersion="9">
-    <elements xmi:type="process:Pool" xmi:id="_TlVdcR2mEfG7rLUwHeWKLQ" name="Pool">
-      <elements xmi:type="process:Lane" xmi:id="_TlVdch2mEfG7rLUwHeWKLQ" name="Employee lane" actor="_TlVdix2mEfG7rLUwHeWKLQ">
+    <elements xmi:type="process:Pool" xmi:id="_TlVdcR2mEfG7rLUwHeWKLQ" name="Lanzar Convocatoria">
+      <elements xmi:type="process:Lane" xmi:id="_TlVdch2mEfG7rLUwHeWKLQ" name="Secreataría EPS" actor="_TlVdix2mEfG7rLUwHeWKLQ">
         <elements xmi:type="process:StartEvent" xmi:id="_TlVdcx2mEfG7rLUwHeWKLQ" name="Start1" outgoing="_TlVdiB2mEfG7rLUwHeWKLQ">
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_TlVddB2mEfG7rLUwHeWKLQ" name="" content="" returnTypeFixed="true"/>
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_TlVddR2mEfG7rLUwHeWKLQ" name="" content="" returnTypeFixed="true"/>
